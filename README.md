@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemant125177
+- 👋 Hi, I’m Hemant Kumar 
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Mechine Learning 
 - 📫Mail me on hemantprime99@gmail.com
